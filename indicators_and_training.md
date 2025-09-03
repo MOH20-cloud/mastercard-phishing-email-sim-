@@ -9,11 +9,11 @@
 
 ## Recommended micro‑training (60–90 seconds)
 1. Hover over the link. Does it match an internal domain you recognize?
-2. Check the sender’s domain (and Reply‑To) carefully.
+2. Check the sender’s domain and reply‑to carefully.
 3. If the email mentions a ticket, search the ticket number in the official helpdesk portal.
-4. When in doubt, contact the Service Desk via your usual channel—don’t reply to the email.
+4. When in doubt, contact the Service Desk via your usual channel don’t reply to the email.
 
-## Metrics to track (for a simulation run)
-- Delivery rate, Open rate, Click‑through rate (CTR), Report rate
-- Time‑to‑report (median)
+## Metrics to track 
+- Delivery rate, Open rate, Click‑through rate CTR, Report rate
+- Time‑to‑report 
 - False positive rate on reports
