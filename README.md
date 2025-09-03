@@ -13,7 +13,7 @@ A training-safe phishing email designed to look legitimate while teaching employ
 - Masked link within natural text  
 - Professional tone with legitimacy signals (ticket number, help desk, footer)  
 - Urgency to encourage action  
-- Safe placeholder link (`https://training.example.com`)  
+- Safe placeholder link (`https://training.example.com/mc/sso/verify`)  
 
 File: `Task-1_phishing_email.md`
 
