@@ -12,6 +12,6 @@ mastercard-forage-phishing-sim/
 ├─ README.md
 ├─ phishing_email_v1.md
 ├─ LICENSE
-├─
+├─Indicators_And_Training
 └─ .gitignore
 ```
