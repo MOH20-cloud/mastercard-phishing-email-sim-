@@ -10,7 +10,7 @@ This repo contains my deliverable for **Task-1** of the Mastercard Virtual Exper
 ```
 mastercard-forage-phishing-sim/
 ├─ README.md
-├─ phishing_email_v1.md
+├─ phishing_email.md
 ├─ LICENSE
 ├─Indicators_And_Training
 └─ .gitignore
